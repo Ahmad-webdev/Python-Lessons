@@ -1,0 +1,4 @@
+
+
+x= 'nice'
+print(x)
