@@ -1,4 +1,0 @@
-
-
-x= 'nice'
-print(x)
